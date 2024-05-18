@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nauman, 🧑‍💻 🇵🇰 😇
-I'm a software engineer, who is passionate to solve real world problems, love to create real time more creative apps. I enjoy working with including MEARN Stack (MongoDB, Express, REACT, NodeJS), PHP (Laravel, Codeigniter), API's, Payment Gateways integration, GraphQL, Google API's. I love to code, and help my community to improve their skill set and ultimately their lives. I love to read and explore new things arround the world specially in tech world. 
+I'm co founder and CTO of DigitalAimz Ltd. I'm so passionate to solve real world problems, love to create real time more creative apps. I enjoy working with including MEARN Stack (MongoDB, Express, REACT, NodeJS), PHP (Laravel, Codeigniter), API's, Payment Gateways integration, GraphQL, Google API's. I love to code, and help my community to improve their skill set and ultimately their lives. I love to read and explore new things arround the world specially in tech world. 
 
 <!--
 **numan9028/numan9028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
